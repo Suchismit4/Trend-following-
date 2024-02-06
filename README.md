@@ -1,16 +1,28 @@
-📉 Trend Following Strategies in Markets Repository 📚
-Welcome to my repository focused on the analysis and development of trend following strategies for financial markets. This repository serves as a personal collection of strategies I've been exploring, with a focus on understanding and applying the principles of trend trading.
+# 📉 Trend Following Strategies in Markets Repository
 
-Approach:
+## 📚 Overview
+This repository serves as a personal collection of strategies I've been exploring, with a focus on understanding and applying the principles of trend trading.
 
-Strategy Development: I develop trend trading strategies, seeking to harness the momentum of market movements.
-Monte-Carlo Permutation Tests: To quantify the influence of randomness in strategy performance, Monte-Carlo permutation tests are employed. This step is crucial for differentiating between genuine strategy effectiveness and mere chance.
-Backtesting: Each strategy undergoes thorough backtesting against historical data. This process is vital for assessing the viability and potential success of the strategy in real market conditions.
-🧪 Current Strategy Analysis:
+## 🧐 Approach
 
-ATR Volatility Break Strategy: This strategy utilizes the Average True Range (ATR), a tool for measuring market volatility. The strategy aims to identify and capitalize on market trends following significant volatility breakouts. The premise is that high volatility, as indicated by an elevated ATR, can often precede major market movements. By strategically positioning at these points, the goal is to capture and benefit from potential market trends.
-This repository is an ongoing project and will continue to evolve as more strategies are analyzed and developed.
+### 1. Strategy Development
+I develop trend trading strategies, which involve identifying and leveraging long-term market movements. Trend trading is based on the idea that markets exhibit persistent directions (trends) over time. These strategies often look for 'fat-tail' distributions, where rare, significant events provide substantial trading opportunities.
 
-🔄 Feedback and Contributions:
+### 2. Monte-Carlo Permutation Tests
+Before considering backtesting, I employ Monte-Carlo permutation tests. These simulations are crucial for understanding the role of randomness in a strategy's performance. They help in distinguishing between actual strategy effectiveness and outcomes influenced by chance. This is especially important in trend trading, where aligning with long-term market trends could be mistaken for random fluctuations.
 
-While this is a personal project, feedback and contributions are welcome. Collaborative discussions and suggestions can provide valuable insights into refining and enhancing these strategies.
+### 3. Backtesting
+After confirming a strategy's potential through Monte-Carlo testing, I move to backtesting it against historical data. This process is critical for assessing a strategy's viability and success probability in real-world conditions. It's important to conduct backtesting after Monte-Carlo tests to avoid overfitting strategies to historical data, which can give misleadingly optimistic results.
+
+## 🧪 Current Strategy Analysis
+
+### ATR Volatility Break Strategy
+This strategy utilizes the Average True Range (ATR), a measure of market volatility. It's designed to capitalize on market trends following significant volatility breakouts. The strategy is based on the premise that high volatility periods, indicated by an elevated ATR, can often precede major market trends.
+
+## 🔄 Feedback and Contributions
+
+While this is a personal project, I welcome feedback and contributions. Collaborative discussions and suggestions are invaluable for refining these strategies.
+
+## ⚠️ Disclaimer
+
+Please note that the content in this repository is for educational and professional purposes only and is not intended as financial advice. It should not be taken as a recommendation for any specific investment strategy o
