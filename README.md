@@ -3,7 +3,7 @@
 ## 📚 Overview
 This repository serves as a personal collection of strategies I've been exploring, with a focus on understanding and applying the principles of trend trading.
 
-## 🧐 Approach
+## Approach
 
 ### 1. Strategy Development
 I develop trend trading strategies, which involve identifying and leveraging long-term market movements. Trend trading is based on the idea that markets exhibit persistent directions (trends) over time. These strategies often look for 'fat-tail' distributions, where rare, significant events provide substantial trading opportunities.
@@ -16,7 +16,7 @@ After confirming a strategy's potential through Monte-Carlo testing, I move to b
 
 ## 🧪 Current Strategy Analysis
 
-### ATR Volatility Break Strategy
+### 1. ATR Volatility Break Strategy
 This strategy utilizes the Average True Range (ATR), a measure of market volatility. It's designed to capitalize on market trends following significant volatility breakouts. The strategy is based on the premise that high volatility periods, indicated by an elevated ATR, can often precede major market trends.
 
 ## 🔄 Feedback and Contributions
