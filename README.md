@@ -16,9 +16,12 @@ After confirming a strategy's potential through Monte-Carlo testing, I move to b
 
 ## 🧪 Strategy Table
 
-| Date Added | Strategy Name | Markets Tested On | P-Value | Profit Factor | No. of Parameters | Indicators Used | Original Source |
-|------------|---------------|-------------------|---------|---------------|-------------------|-----------------|-----------------|
-|            |               |                   |         |               |                   |                 |                 |
+| Date Added | Strategy Name             | Markets Tested On | P-Value | Profit Factor | No. of Parameters | Indicators Used   | Original Source |
+|------------|---------------------------|-------------------|---------|---------------|-------------------|-------------------|-----------------|
+| 06/02/2023 | ATR Volatility Break      | Bitcoin           | < 0.005 | 1.6 (backtest)| 2                 | SMA, ATR          | N/A             |
+| 07/02/2023 | Trend Line Breakout       | Crypto Portfolio  | N/A     | N/A           | 1                 | Trend Channel     | N/A             |
+
+*Note: This table will be updated as more strategies are developed and analyzed.*
 
 *Note: This table will be updated as more strategies are developed and analyzed.*
 
