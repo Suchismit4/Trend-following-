@@ -23,8 +23,6 @@ After confirming a strategy's potential through Monte-Carlo testing, I move to b
 
 *Note: This table will be updated as more strategies are developed and analyzed.*
 
-*Note: This table will be updated as more strategies are developed and analyzed.*
-
 ## Understanding the P-Value
 The p-value in the context of these strategies indicates the probability of achieving similar results by chance. A lower p-value suggests that the strategy's performance is less likely to be due to random fluctuations and more likely due to its inherent effectiveness.
 
