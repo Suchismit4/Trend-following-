@@ -30,6 +30,9 @@ The p-value in the context of these strategies indicates the probability of achi
 ### 1. ATR Volatility Break Strategy
 This strategy utilizes the Average True Range (ATR), a measure of market volatility. It's designed to capitalize on market trends following significant volatility breakouts. The strategy is based on the premise that high volatility periods, indicated by an elevated ATR, can often precede major market trends.
 
+### 2. Trend Line Breakout Strategy
+This strategy focuses on the concept of trend line breaks. It operates on the principle that when a significant trend line is broken, a new trend is likely to start in the direction of the break. The strategy aims to identify these pivotal moments and capitalize on the ensuing trend, providing opportunities for strategic entry and exit points in the market.
+
 ## 🔄 Feedback and Contributions
 
 While this is a personal project, I welcome feedback and contributions. Collaborative discussions and suggestions are invaluable for refining these strategies.
